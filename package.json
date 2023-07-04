@@ -1,0 +1,31 @@
+{
+  "name": "vite-vue-js-template",
+  "private": true,
+  "version": "0.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Zhoubingyan",
+    "email": "434387059@qq.com",
+    "url": "https://doc.starimmortal.com"
+  },
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "node-sass": "^9.0.0",
+    "pinia": "^2.1.4",
+    "prettier": "^2.8.8",
+    "sass-loader": "^13.3.2",
+    "style-loader": "^3.3.3",
+    "vue": "^3.2.47",
+    "vue-router": "^4.2.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.1.0",
+    "sass": "^1.63.6",
+    "vite": "^4.3.9"
+  }
+}
